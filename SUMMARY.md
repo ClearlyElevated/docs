@@ -1,36 +1,35 @@
 # Table of contents
 
-* [Bem-Vindo](README.md)
-* [Termos de Serviço](terms.md)
-* [Política de Uso](policy.md)
+* [Welcome] (README.md)
+* [Terms of Service] (terms.md)
+* [Usage Policy] (policy.md)
 
-## Suporte
+## Support
 
-* [Linguagens](suporte/linguagens/README.md)
-  * [JavaScript](suporte/linguagens/javascript/README.md)
-    * [Discord Bot Maker](suporte/linguagens/javascript/dbm/README.md)
-      * [Como entrar na versão beta do DBM?](suporte/linguagens/javascript/dbm/como-entrar-na-beta-do-dbm.md)
-    * [Discord Bot Controls](suporte/linguagens/javascript/dbc.md)
-  * [Python](suporte/linguagens/python/README.md)
-    * [Criando seu requirements.txt](suporte/linguagens/python/exemplo-do-requirements.txt.md)
-  * [Java](suporte/linguagens/java.md)
-* [Conexões](suporte/conexoes/README.md)
-  * [MongoDB Atlas \(mLab\)](suporte/conexoes/mlab-mongodb-atlas.md)
-* [Como Hospedar](suporte/como-hospedar/README.md)
-  * [Website](suporte/como-hospedar/website.md)
-  * [Discord](suporte/como-hospedar/discord.md)
+* [Languages] (support / languages ​​/ README.md)
+  * [JavaScript] (support / languages ​​/ javascript / README.md)
+    * [Discord Bot Maker] (support / languages ​​/ javascript / dbm / README.md)
+      * [How to get into DBM beta?] (Support / languages ​​/ javascript / dbm / how-to-beta-do-dbm.md)
+    * [Discord Bot Controls] (support / languages ​​/ javascript / dbc.md)
+  * [Python] (support / languages ​​/ python / README.md)
+    * [Creating your requirements.txt] (support / languages ​​/ python / example-requirements.txt.md)
+  * [Java] (support / languages ​​/ java.md)
+* [Connections] (support / connections / README.md)
+  * [MongoDB Atlas \ (mLab \)] (support / connections / mlab-mongodb-atlas.md)
+* [How to Host] (support / how-to / README.md)
+  * [Website] (support / how-to / website.md)
+  * [Discord] (support / how-to / discord.md)
 
 ## FAQ
 
-* [Como pegar o ID do meu Bot?](faq/como-pegar-o-id-do-meu-bot.md)
-* [Como compactar \(zipar\) os meus arquivos?](faq/como-compactar-zipar-os-meus-arquivos.md)
-* [Qual o arquivo principal?](faq/qual-o-arquivo-principal.md)
-* [Doações](faq/doacoes.md)
+* [How to get my Bot ID?] (Faq / how-to- get-my-id-id.md)
+* [How to compress \ (zip \) my files?] (Faq / how-compress-zip-my-files.md)
+* [What is the main file?] (Faq / any-main-file.md)
+* [Donations] (faq / donations.md)
 
-## Sobre
+## About
 
-* [Discloud Brand](sobre/discloud-brand/README.md)
-  * [Origem do Nome](sobre/discloud-brand/origem-do-nome.md)
-  * [Identidade Visual](sobre/discloud-brand/identidade-visual.md)
-  * [Site](https://discloudbot.com/)
-
+* [Discloud Brand] (about / discloud-brand / README.md)
+  * [Origin of Name] (about / discloud-brand / origin-name.md)
+  * [Branding] (about / discloud-brand / branding.md)
+  * [Site] (https://discloudbot.com/)
