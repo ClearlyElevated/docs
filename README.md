@@ -1,22 +1,32 @@
 ---
-description: Bem-vindo a documentação oficial da DisCloud
+description: A little information & contact info for DisCloud Services & DisCloud Staff.
 ---
 
-# Bem-Vindo
+# Information
 
-> Documentação é o conjunto de todos **documentos**, que são **todas as fontes** contendo informações que ajudem a tomar decisões, comuniquem decisões tomadas e **registrem assuntos de interesse da organização**.
+### \*\*\*\*[**Information**](https://discloudbot.com)
 
-## 📜 Informações
+**As a flexible, free and easy-to-use container-based cloud platform, we offer developers a simple and fast way to get their Discord Bots online 24/7.**
 
-Somos uma plataforma de nuvem baseada em contêiner flexível, gratuita e fácil de usar, oferecemos aos desenvolvedores uma forma simples e rápida de colocar seus Bots Discord online 24/7.
+**We count on donor collaboration to stay on the air and improve the quality of our services. We have no ties to Discord Inc.**
 
-Contamos com a colaboração de doadores para se manter no ar e melhorar a qualidade de nossos serviços. Não possuímos nenhum tipo de vínculo com a Discord Inc.
+{% tabs %}
+{% tab title="Staff Contact Contact" %}
+_DiscordStaff_: Tech Support:  \|  **support@discloudbot.com**
 
-• ![:DiscordStaff:](https://cdn.discordapp.com/emojis/452955567795732480.png?v=1) **`Tech Support:`** support@discloudbot.com   
-• ![:TrustSafety:](https://cdn.discordapp.com/emojis/606720108164939776.png?v=1) **`Trust & Safety:`** abuse@discloudbot.com   
-• ![:Twitter:](https://cdn.discordapp.com/emojis/556968525261176842.png?v=1) **`Twitter:`** [**https://twitter.com/discloudbot**](https://twitter.com/discloudbot)   
-• ![:YouTube:](https://cdn.discordapp.com/emojis/430925378681569282.png?v=1) **`YouTube:`** [**https://youtube.com/c/pedroricardor**](https://youtube.com/c/pedroricardor)   
-• ![:discord:](https://cdn.discordapp.com/emojis/274789236421427200.png?v=1) **`Discord:`** [**https://discord.gg/CvxevT5**](https://discord.gg/CvxevT5)
+_TrustSafety_: Trust & Safety:  \|  **abuse@discloudbot.com**
+{% endtab %}
 
-![](.gitbook/assets/1.png)
+{% tab title="Other Links Tab" %}
+**•Twitter: Twitter:** [**https://twitter.com/discloudbot**](https://twitter.com/discloudbot)  ****
+
+**YouTube: YouTube:** [**https://youtube.com/c/pedroricardor**](https://youtube.com/c/pedroricardor)  ****
+
+**Discord:** [**https://discord.gg/CvxevT5**](https://discord.gg/CvxevT5)\*\*\*\*
+{% endtab %}
+
+{% tab title="English Support " %}
+Nolan@DisCloud.tk
+{% endtab %}
+{% endtabs %}
 
